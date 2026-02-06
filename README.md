@@ -2,6 +2,9 @@
 
 Modem/yönlendiricinizin web yönetim sayfasına hızlıca ulaşmanızı sağlayan küçük, açık kaynaklı bir araç.
 
+Araçla uğraşmak istemezseniz direkt 192.168.l.l modem arayüzü admin giriş linki:
+Tüm marka ve modeller için: https://plusapkz.com/192-168-l-l-giris-neden-giremiyorsunuz-1-sn-de-modem-arayuzune-gir/
+
 ## Neden?
 İnsanlar genellikle yanlışlıkla `192.168.l.l` (doğrusu `192.168.1.1`) yazıyor ve modem arayüzüne ulaşamıyorlar.
 
@@ -11,13 +14,9 @@ Bu komut dosyası:
 - HTTP/HTTPS'yi inceler ve çalışan bağlantıları yazdırır
 
 ## Kullanım
-```bash
 python3 gateway_finder.py
 
-
-English:
-
-# 192.168.l.l Modem Gateway Finder
+## English: 192.168.l.l Modem Gateway Finder
 
 Tiny open-source tool to quickly find your modem/router web admin page.
 
@@ -31,3 +30,11 @@ This script:
 ## Usage
 ```bash
 python3 gateway_finder.py
+
+
+
+
+
+
+
+
