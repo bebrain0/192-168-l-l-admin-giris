@@ -34,9 +34,11 @@ This script:
 ```bash
 python3 gateway_finder.py
 
+Ayrıca ek bilgiler ve videolu anlatım için:
 
+https://www.dailymotion.com/video/x9zezrs
 
-
+https://www.slideshare.net/slideshow/192-168-l-l-admin-modem-arayuze-giris-2026/285897072
 
 
 
