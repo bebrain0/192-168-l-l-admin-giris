@@ -8,6 +8,12 @@ Tüm marka ve modeller için:
 
 https://plusapkz.com/192-168-l-l-giris-neden-giremiyorsunuz-1-sn-de-modem-arayuzune-gir/
 
+Ayrıca ek bilgiler ve videolu anlatım için:
+
+https://www.dailymotion.com/video/x9zezrs
+
+https://www.slideshare.net/slideshow/192-168-l-l-admin-modem-arayuze-giris-2026/285897072
+
 ## Neden?
 İnsanlar genellikle yanlışlıkla `192.168.l.l` (doğrusu `192.168.1.1`) yazıyor ve modem arayüzüne ulaşamıyorlar.
 
@@ -34,11 +40,7 @@ This script:
 ```bash
 python3 gateway_finder.py
 
-Ayrıca ek bilgiler ve videolu anlatım için:
 
-https://www.dailymotion.com/video/x9zezrs
-
-https://www.slideshare.net/slideshow/192-168-l-l-admin-modem-arayuze-giris-2026/285897072
 
 
 
